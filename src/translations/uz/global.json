@@ -1,0 +1,17 @@
+{
+    "navbar": {
+      "home": "Bosh sahifa",
+      "projects": "Loyihalar",
+      "experience": "Tajriba"
+    },
+  
+    "home": {
+      "title": "Salom, Mening ismim Azim",
+      "description": "O'rganish va yaratishga ishtiyoqi bo'lgan dasturichi"
+    },
+  
+    "skills": {
+      "title": "Ko'nikmalar"
+    }
+  }
+  

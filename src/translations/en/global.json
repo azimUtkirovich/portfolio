@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "experience": "Experience"
+  },
+
+  "home": {
+    "title": "Hi, My Name is Azim",
+    "description": "A software developer with a passion for learning and creating"
+  },
+
+  "skills": {
+    "title": "Skills"
+  }
+}
