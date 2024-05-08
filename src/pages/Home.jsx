@@ -8,7 +8,7 @@ import { useTranslation } from "react-i18next";
 import "../styles/Home.css";
 
 const Home = () => {
-  const [t, i18n] = useTranslation("global");
+  const { t } = useTranslation("global");
   return (
     <div className="home">
       <div className="about">
