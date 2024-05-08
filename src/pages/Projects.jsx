@@ -4,11 +4,15 @@ import { ProjectList } from "../helpers/ProjectList";
 
 import "../styles/Projects.css";
 
+import { useTranslation } from "react-i18next";
+
 const Projects = () => {
+  const { t } = useTranslation("global");
+
   return (
     <div className="projects">
-      <h1>My Personal Projects</h1>
-      <p> (page under construction!) </p>
+      <h1>{t("content.title")}</h1>
+      <p> {t("content.subtitle")} </p>
       <div className="projectList">
         {ProjectList.map((project, index) => {
           return (

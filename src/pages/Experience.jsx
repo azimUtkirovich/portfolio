@@ -17,7 +17,7 @@ const Experience = () => {
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">Tezmez State Univercity</h3>
+          <h3 className="vertical-timeline-element-title">Tezmez State University</h3>
           <h4 className="vertical-timeline-element-subtitle">Bachelor Degree</h4> 
             <p>English Language Teacher</p>
         </VerticalTimelineElement>

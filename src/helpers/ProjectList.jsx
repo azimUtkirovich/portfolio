@@ -1,6 +1,6 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
+import Proj3 from "../assets/proj3.png";
 import Proj4 from "../assets/proj4.webp";
 import Proj5 from "../assets/proj5.jpg";
 import Proj6 from "../assets/proj6.png";
@@ -14,16 +14,16 @@ export const ProjectList = [
     demo: "https://azimutkirovich.github.io/weather_app/",
   },
   {
-    name: "Ecommerce Website",
+    name: "To-Do List Application",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
-    gitLink: "https://github.com/azimUtkirovich/weather_app.git",
-    demo: "https://azimutkirovich.github.io/weather_app/",
+    skills: "JavaScript, HTML, CSS",
+    gitLink: "https://github.com/azimUtkirovich/todo_app",
+    demo: "https://azimutkirovich.github.io/todo_app/",
   },
   {
-    name: "Spotify Clone",
+    name: "Website Layout",
     image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
+    skills: "HTML, CSS",
     gitLink: "https://github.com/azimUtkirovich/weather_app.git",
     demo: "https://azimutkirovich.github.io/weather_app/",
   },

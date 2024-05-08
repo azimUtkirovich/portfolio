@@ -12,6 +12,11 @@
   
     "skills": {
       "title": "Ko'nikmalar"
+    },
+
+    "projects": {
+      "title": "Mening loyihalarim",
+      "subtitle": "(sahifa ishlab chiqilmoqda)"
     }
   }
   

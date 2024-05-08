@@ -12,5 +12,21 @@
 
   "skills": {
     "title": "Skills"
+  },
+
+  "content": {
+    "title": "My Personal Projects",
+    "subtitle": "(page under construction)"
+  },
+
+  "projects": {
+    "title": [
+      "Weather Application",
+      "To-Do List Application",
+      "Website Layout",
+      "Social Media Website",
+      "Dashboard Visualizer",
+      "Mobile Game"
+    ]
   }
 }
